@@ -10,7 +10,7 @@ nav{
     margin-top: 40px;
     overflow:hidden;
     text-align: left;
-    background-color:#fcfcfc;
+
     float: right;
     width: 91%;
 }
@@ -290,3 +290,27 @@ nav ul li a:hover{
     margin-bottom: 100px;
   }
 
+.fit-image{
+  height: 100%;
+  width: 100%;
+}
+
+#my-grid{
+  margin: 30px;
+}
+
+
+.grid-padding{
+  padding: 0 8px;
+}
+
+.grid-padding img{
+  margin-bottom: 15px;
+  transition: 0.8s ease;
+
+}
+
+.col-sm-4
+{
+  padding-right: 10px;
+}
